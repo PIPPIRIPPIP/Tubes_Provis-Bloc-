@@ -1,0 +1,3 @@
+class HalamanawalItemModel {
+  String? id = "";
+}
